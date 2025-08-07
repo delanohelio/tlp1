@@ -42,8 +42,8 @@ O plano de aulas a seguir está alinhado com o Calendário Acadêmico 2025.
 | **2** |            23/06 a 27/06             | Revisão de Python - Parte 2 | Exercício prático com listas e dicionários. |
 | **3** |            30/06 a 04/07             | POO - Introdução e Conceitos Fundamentais | Exercício conceitual de múltipla escolha sobre POO. |
 | **4** | [07/07 a 11/07](conteudos/semana-04) | POO - Aprofundando em Classes: Atributos, Métodos e o Construtor `__init__`. | Exercício prático de criação da classe `Produto`. |
-| **-** | [14/07 a 18/07](conteudos/semana-05) | **Recesso Escolar** | Não haverá conteúdo ou atividade. |
-| **5** |            21/07 a 25/07             | POO - Herança: Reutilizando e especializando classes. | Exercício prático sobre Herança. |
+| **-** |            14/07 a 18/07             | **Recesso Escolar** | Não haverá conteúdo ou atividade. |
+| **5** |          [21/07 a 25/07](conteudos/semana-05)           | POO - Herança: Reutilizando e especializando classes. | Exercício prático sobre Herança. |
 | **6** |            28/07 a 01/08             | Conceitos Web Essenciais - Modelo Cliente-Servidor e protocolo HTTP. | Questionário teórico sobre o fluxo de uma requisição web. |
 
 ### **3ª Unidade Didática (04/08 a 08/10)**
