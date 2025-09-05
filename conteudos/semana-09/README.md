@@ -24,6 +24,8 @@ O notebook da aula é um guia prático e detalhado, com todos os passos e códig
 
 **[➡️ Abrir o notebook da aula no Google Colab](https://colab.research.google.com/github/delanohelio/tlp1/blob/main/conteudos/semana-09/aula_semana_09.ipynb)**
 
+Se não conseguir abrir pelo Google Colab, você pode ver o notebook direto no github: [aula_semana_09.ipynb](aula_semana_09.ipynb)
+
 ---
 
 ## 💻 Exercício da Semana: Criando o Model da API
