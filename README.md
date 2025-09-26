@@ -54,7 +54,7 @@ O plano de aulas a seguir está alinhado com o Calendário Acadêmico 2025.
 | **8** | [11/08 a 15/08](conteudos/semana-08) | Introdução ao Django - Instalação e estrutura de um projeto. | Criação e entrega da estrutura de pastas do projeto Django. |
 | **9** | [18/08 a 22/08](conteudos/semana-09) | DRF - Configuração inicial e criação do primeiro `Model`. | Codificar o arquivo `models.py` da aplicação. |
 | **10** | [25/08 a 29/08](conteudos/semana-10) | DRF - Serializers: Convertendo `Models` em JSON. | Codificar o arquivo `serializers.py`. |
-| **11** |            01/09 a 05/09             | DRF - Views e Endpoints: Criando a primeira rota para listar dados (GET). | Implementar a `APIView` para listagem de recursos. |
+| **11** | [01/09 a 05/09](conteudos/semana-11) | DRF - Views e Endpoints: Criando a primeira rota para listar dados (GET). | Implementar a `APIView` para listagem de recursos. |
 | **12** |            08/09 a 12/09             | DRF - Criando Recursos (POST). | Adicionar a funcionalidade de criação de dados na API. |
 | **13** |            15/09 a 19/09             | DRF - Detalhando Recursos (GET por ID). | Implementar a `View` de detalhe do recurso. |
 | **14** |            22/09 a 26/09             | DRF - Atualizando e Deletando Recursos (PUT e DELETE). | Implementar as funcionalidades de atualização e exclusão. |
