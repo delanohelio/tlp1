@@ -48,17 +48,17 @@ O plano de aulas a seguir está alinhado com o Calendário Acadêmico 2025.
 
 ### **3ª Unidade Didática (04/08 a 08/10)**
 
-| Semana |               Período                | Conteúdo Programático | Atividade Semanal |
-| :---: |:------------------------------------:| :--- | :--- |
-| **7** | [04/08 a 08/08](conteudos/semana-07) | Introdução a APIs - O que é uma API? O padrão REST e o formato JSON. | Análise de uma API REST pública. |
+| Semana |               Período                | Conteúdo Programático | Atividade Semanal                                           |
+| :---: |:------------------------------------:| :--- |:------------------------------------------------------------|
+| **7** | [04/08 a 08/08](conteudos/semana-07) | Introdução a APIs - O que é uma API? O padrão REST e o formato JSON. | Análise de uma API REST pública.                            |
 | **8** | [11/08 a 15/08](conteudos/semana-08) | Introdução ao Django - Instalação e estrutura de um projeto. | Criação e entrega da estrutura de pastas do projeto Django. |
-| **9** | [18/08 a 22/08](conteudos/semana-09) | DRF - Configuração inicial e criação do primeiro `Model`. | Codificar o arquivo `models.py` da aplicação. |
-| **10** | [25/08 a 29/08](conteudos/semana-10) | DRF - Serializers: Convertendo `Models` em JSON. | Codificar o arquivo `serializers.py`. |
-| **11** | [01/09 a 05/09](conteudos/semana-11) | DRF - Views e Endpoints: Criando a primeira rota para listar dados (GET). | Implementar a `APIView` para listagem de recursos. |
-| **12** |            08/09 a 12/09             | DRF - Criando Recursos (POST). | Adicionar a funcionalidade de criação de dados na API. |
-| **13** |            15/09 a 19/09             | DRF - Detalhando Recursos (GET por ID). | Implementar a `View` de detalhe do recurso. |
-| **14** |            22/09 a 26/09             | DRF - Atualizando e Deletando Recursos (PUT e DELETE). | Implementar as funcionalidades de atualização e exclusão. |
-| **15** |            29/09 a 03/10             | Revisão Geral - Consolidando o fluxo de uma API REST com DRF. | Atividade de revisão integrando todos os conceitos. |
+| **9** | [18/08 a 22/08](conteudos/semana-09) | DRF - Configuração inicial e criação do primeiro `Model`. | Codificar o arquivo `models.py` da aplicação.               |
+| **10** | [25/08 a 29/08](conteudos/semana-10) | DRF - Serializers: Convertendo `Models` em JSON. | Codificar o arquivo `serializers.py`.                       |
+| **11** | [01/09 a 05/09](conteudos/semana-11) | DRF - Views e Endpoints: Criando a primeira rota para listar dados (GET). | Implementar a `APIView` para listagem de recursos.          |
+| **12** | [08/09 a 12/09](conteudos/semana-12) | DRF - Detalhando a Informação: Endpoint de Detalhe. | Adicionar a funcionalidade de mostrar detalhes.             |
+| **13** |            15/09 a 19/09             | DRF - Detalhando Recursos (GET por ID). | Implementar a `View` de detalhe do recurso.                 |
+| **14** |            22/09 a 26/09             | DRF - Atualizando e Deletando Recursos (PUT e DELETE). | Implementar as funcionalidades de atualização e exclusão.   |
+| **15** |            29/09 a 03/10             | Revisão Geral - Consolidando o fluxo de uma API REST com DRF. | Atividade de revisão integrando todos os conceitos.         |
 
 ### **4ª Unidade Didática (09/10 a 19/12)**
 
